@@ -10,7 +10,7 @@ Credit is not required, though appreciated.
   
 Let me know if you need any further assistance!
 #
-
+  
 ![Name](https://img.shields.io/badge/IDIOMA-PORTUGUÊS-579943)  
 Aqui irei disponibilizar gratuitamente coleções de músicas e efeitos sonoros de minha autoria. A maioria estará nos formatos **WAV** _(WAV Sem Compressão, 44.1 kHz, 16 bit)_ (qualidade original, qualidade de estúdio) padrões de uso para gamedev (WAV de alta qualidade e OGG).
 
