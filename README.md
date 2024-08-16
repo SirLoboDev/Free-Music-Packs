@@ -7,4 +7,4 @@ Não é necessário dar crédito, embora apreciado.
 ---------------------------
 Nome do Ativo | Link para Download
 -------- | -----
-Ethereal Background Music| [Baixar](http://example.com)
+Ethereal Background Music| [Acessar](http://example.com)
