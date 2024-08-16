@@ -20,6 +20,6 @@ Não é necessário pedir permissão.
 Não é necessário dar crédito, embora apreciado.
 
 ---------------------------
-Asset ID | Asset Name | Download | Ver. | Last Update
+Asset ID | Asset Name / Description | Download | Ver. | Last Update
 |:-------| :-------- | :----- | ----- | ----- |
 SLFMP-1608 | Ethereal Background Music | [Download](http://example.com) | 1.0 | (16/08/2024)
