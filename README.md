@@ -20,6 +20,6 @@ Não é necessário pedir permissão.
 Não é necessário dar crédito, embora apreciado.
 
 ---------------------------
-Nome do Ativo | Link para Download | Ver. | Última Atualização
-| :-------- | :----- | ----- | ----- |
-Ethereal Background Music | [[SLMSC-1608]_Ethereal_Background_Music.7z](http://example.com) | 1.0 | (16/08/2024)
+Asset ID | Asset Name | Download | Ver. | Last Update
+|:-------| :-------- | :----- | ----- | ----- |
+SLFMP-1608 | Ethereal Background Music | [Download](http://example.com) | 1.0 | (16/08/2024)
