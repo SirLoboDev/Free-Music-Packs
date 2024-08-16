@@ -9,4 +9,4 @@ Não é necessário dar crédito, embora apreciado.
 ---------------------------
 Nome do Ativo | Link para Download | Última Versão
 -------- | ----- | ----- |
-Ethereal Background Music | [[SLMSC-1608]_Ethereal_Background_Music.7z](http://example.com) | 1.0 (16/08/2024)
+Ethereal Background Music | [[SLMSC-1608]_Ethereal_Background_Music.7z](http://example.com) | 1.0 _(16/08/2024)_
