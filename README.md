@@ -7,6 +7,6 @@ Não é necessário pedir permissão.
 Não é necessário dar crédito, embora apreciado.
 
 ---------------------------
-Nome do Ativo | Link para Download | Última Versão
+Nome do Ativo | Link para Download | Versão | Última Atualização
 -------- | ----- | ----- |
-Ethereal Background Music | [[SLMSC-1608]_Ethereal_Background_Music.7z](http://example.com) | 1.0 _(16/08/2024)_
+Ethereal Background Music | [[SLMSC-1608]_Ethereal_Background_Music.7z](http://example.com) | 1.0 | (16/08/2024)
